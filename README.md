@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 MIT
 
-[kodluyoruz_gorsel](https://pbs.twimg.com/media/Dmt3InyXoAEdN7a.jpg:large)
+
